@@ -24,6 +24,8 @@
     "eslint": "^8",
     "eslint-config-next": "14.0.4",
     "@repo/typescript-config": "workspace:*",
-    "@repo/tailwind-config": "workspace:*"
+    "@repo/tailwind-config": "workspace:*",
+    "@repo/ui": "workspace:*",
+    "@repo/stock": "workspace:*"
   }
 }
