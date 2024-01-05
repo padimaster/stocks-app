@@ -1,0 +1,11 @@
+{
+  "name": "@repo/stock",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    "./types": "./src/types/index.ts"
+  },
+  "devDependencies": {
+    "@repo/typescript-config": "workspace:*"
+  }
+}
